@@ -1,26 +1,31 @@
-
-
 # Instagram Console Clone
 
-This is a simple **console-based Instagram clone** developed in Java.  
-It simulates basic features such as user registration, login, posting content, viewing posts, and commenting on other users' posts.
+A simple **console-based Instagram clone** built with Java.  
+This project simulates core social media features like user registration, login, posting content, and commenting on others' posts — all through the terminal.
 
-## 📌 Features
+---
 
-- User registration with validation (username/password rules)
-- User login
-- Create and view posts
-- Comment on other users' posts
-- Search for users
+## 🚀 Features
 
-## 🛠️ Technologies
+- ✅ User registration with input validation (username & password)
+- 🔐 User login system
+- 📝 Create and view your own posts
+- 💬 Comment on posts of other users
+- 🔍 Search users by username
+- 🧼 Input error handling (e.g., invalid selections, empty fields)
 
-- Java
-- Object-Oriented Programming (OOP)
-- Scanner for input
-- ArrayList for storing data
+---
 
-## 🚀 How to Run
+## 🧪 Technologies Used
+
+- Java (OOP principles)
+- Scanner for console input
+- ArrayList for in-memory data storage
+- Exception handling with `try-catch`
+
+---
+
+## 🛠️ How to Run
 
 1. Clone the repository:
 git clone https://github.com/your-username/instagram-console-clone.git
