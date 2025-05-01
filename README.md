@@ -28,7 +28,7 @@ This project simulates core social media features like user registration, login,
 ## 🛠️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/instagram-console-clone.git
+git clone https://github.com/dorukmenguverdi/instagram-console-clone.git
 
 2. Navigate to the folder:
 cd instagram-console-clone
